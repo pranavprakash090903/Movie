@@ -96,18 +96,18 @@ Movie/
 ├── .env
 ├── package.json
 └── README.md
-# 🚧 Future Improvements
-# 🎯 Filters (By Year, Type, etc.)
+🚧 Future Improvements
+🎯 Filters (By Year, Type, etc.)
 
-# ⭐ Favorites Feature (LocalStorage Integration)
+⭐ Favorites Feature (LocalStorage Integration)
 
-# 🗃️ Client-Side Caching for Better Performance
+🗃️ Client-Side Caching for Better Performance
 
-# 🎹 Keyboard Navigation Support
+🎹 Keyboard Navigation Support
 
-# 🎨 Smooth Animations for Transitions
+🎨 Smooth Animations for Transitions
 
-# 🖥️ Deployment
+🖥️ Deployment
 Deployment in progress. Will update live link soon.
 
 # 🤝 Contribution
