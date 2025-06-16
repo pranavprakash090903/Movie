@@ -1,7 +1,7 @@
-🎬 Movie Search App
+# 🎬 Movie Search App
 A React-based application that allows users to search for movies using the OMDb API. Users can enter the name of a movie and get details such as title, year, type, and poster.
 
-🚀 Features
+# 🚀 Features
 Search movies by title
 
 Display movie details: poster, title, year, and type
@@ -10,7 +10,7 @@ Responsive and user-friendly interface
 
 API integration with OMDb API
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 React JS
 
 JavaScript (ES6+)
@@ -19,7 +19,7 @@ HTML5 & CSS3
 
 OMDb API
 
-📂 Folder Structure
+# 📂 Folder Structure
 java
 Copy
 Edit
@@ -65,10 +65,10 @@ ini
 Copy
 Edit
 REACT_APP_API_KEY=your_omdb_api_key_here
-📌 API Used
+# 📌 API Used
 OMDb API
 
-🌟 Future Enhancements
+# 🌟 Future Enhancements
 Movie details page with full plot and ratings
 
 Pagination for search results
@@ -77,6 +77,9 @@ Favorites/watchlist feature
 
 Search filters (e.g., genre, year)
 
-🤝 Contributing
+# 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to open issues or pull requests.
+
+# 📄 License
+MIT License © 2025 Pranav Prakash Saxena
