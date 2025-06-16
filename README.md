@@ -1,38 +1,46 @@
-# 🎬 Movie Search App
-A React-based application that allows users to search for movies using the OMDb API. Users can enter the name of a movie and get details such as title, year, type, and poster.
+:
 
-# 🚀 Features
-Search movies by title
+# 🎥 Movie Search Application
+A React.js based Movie Search Application built as part of the Tech-Bridge assignment. This application allows users to search for movies, view details, and explore basic movie information with a smooth and responsive interface.
 
-Display movie details: poster, title, year, and type
+# 📚 Overview
+This project demonstrates the integration of a movie search feature using the OMDb API, providing search results, detailed movie views, responsive UI, and essential features for a modern web application.
 
-Responsive and user-friendly interface
+# 🌐 Live Demo
+👉 Live Demo Link — https://movie-two-rosy-86.vercel.app/
+👉 GitHub Repository- https://github.com/pranavprakash090903/Movie.git
 
-API integration with OMDb API
+# ✅ Features Implemented
 
-# 🛠️ Technologies Used
-React JS
+🔎 Search Interface for Movies
 
-JavaScript (ES6+)
+🖼️ Display Search Results in Grid Layout
 
-HTML5 & CSS3
+🎬 Show Basic Movie Information (Title, Year, Poster)
 
-OMDb API
+📄 Detailed View for Individual Movies
 
-# 📂 Folder Structure
-java
-Copy
-Edit
-Movie/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── README.md
-⚙️ Setup Instructions
+➡️ Pagination for Search Results
+
+⚛️ Functional Components with React Hooks
+
+🔗 API Integration with OMDb API
+
+⏳ Loading Skeleton Placeholders
+
+❌ Error Messages for Failed API Calls
+
+📱 Responsive & Mobile-Friendly UI
+
+🧹 Clear Button for Search Input
+
+💨 Debounced Search Implementation
+
+🔀 Navigation Using React Router
+
+🗃️ 404 Page Implementation
+
+# ⚙️ Setup Instructions
 Clone the repository
 
 bash
@@ -46,40 +54,65 @@ bash
 Copy
 Edit
 npm install
-Start the application
-
-bash
-Copy
-Edit
-npm start
-Open in browser
-
-arduino
-Copy
-Edit
-http://localhost:3000
-Add your OMDb API key
-Create a .env file and add:
+Configure Environment Variables
+Create a .env file in the root directory and add your OMDb API key:
 
 ini
 Copy
 Edit
 REACT_APP_API_KEY=your_omdb_api_key_here
-# 📌 API Used
-OMDb API
+Run the application
 
-# 🌟 Future Enhancements
-Movie details page with full plot and ratings
+bash
+Copy
+Edit
+npm start
+Access the app
 
-Pagination for search results
+arduino
+Copy
+Edit
+http://localhost:3000
 
-Favorites/watchlist feature
+# 📡 API Documentation
+API Used: OMDb API
 
-Search filters (e.g., genre, year)
+# 🗂️ Folder Structure
+pgsql
+Copy
+Edit
+Movie/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── SearchBar.js
+│   │   ├── MovieCard.js
+│   │   ├── MovieGrid.js
+│   │   ├── MovieDetail.js
+│   │   ├── LoadingPlaceholder.js
+│   │   └── ErrorBoundary.js
+│   ├── App.js
+│   ├── index.js
+├── .env
+├── package.json
+└── README.md
+# 🚧 Future Improvements
+# 🎯 Filters (By Year, Type, etc.)
 
-# 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to open issues or pull requests.
+# ⭐ Favorites Feature (LocalStorage Integration)
+
+# 🗃️ Client-Side Caching for Better Performance
+
+# 🎹 Keyboard Navigation Support
+
+# 🎨 Smooth Animations for Transitions
+
+# 🖥️ Deployment
+Deployment in progress. Will update live link soon.
+
+# 🤝 Contribution
+Contributions, issues, and feature requests are welcome! Feel free to open an Issue or Pull Request.
 
 # 📄 License
 MIT License © 2025 Pranav Prakash Saxena
+
